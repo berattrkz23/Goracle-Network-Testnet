@@ -5,9 +5,6 @@
 <h1 align="center"> Merhaba,  Goracle Netwrok Teşvikli Testnet ve Node Kurulum Rehberi <br> by Hercules
 </h1>
 
-* [Hercules Telegram](https://t.me/HerculesNode)
-* [Notitia Telegram](https://t.me/NotitiaGroup)
-* [Hercules Twitter](https://twitter.com/Hercules4413)
 
 ## Açıklama
 
@@ -65,15 +62,6 @@ Goracle Network hakkında kendi dilinizde bir blog yazısı oluşturabilirsiniz.
 [Telegram](https://t.me/Goracle_Turkey) kanallarına giriş yapın.
 
 
-<br><br><br> 
-
-Şimdilik işlemler bu kadar. Discord kanalını ve [Hercules Telegram](https://t.me/HerculesNode) Kanalından gelişmeleri takip edebilirsiniz. 
-
-<br><br> 
-
 #### 🟢 Node Kurulum işlemleri
 
 Node kurulum başladığında buraya eklenecektir. 
-
-<br>
-* Bu hafta Testnetrun ekibinden `ELTURCO` hocamızın vefatını öğrendim ve çok üzüldüm. Ailesine ve yakınlarına Baş sağlığı dilerim. :(

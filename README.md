@@ -2,7 +2,7 @@
 
 
 <h1 align="center"> Goracle Testnet </h1>
-<h1 align="center"> Merhaba,  Goracle Netwrok Teşvikli Testnet ve Node Kurulum Rehberi <br> by Hercules
+<h1 align="center"> Merhaba,  Goracle Netwrok Teşvikli Testnet ve Node Kurulum Rehberi <br>
 </h1>
 
 
